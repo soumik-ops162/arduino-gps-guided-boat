@@ -1,0 +1,27 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Python virtual envs
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Arduino build output
+build/
+*.o
+*.a
+*.elf
+*.hex
+*.bin
+
+# Logs
+*.log
