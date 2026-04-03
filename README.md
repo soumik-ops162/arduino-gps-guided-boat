@@ -1,4 +1,15 @@
-# GPS Guided Navigation Boat
+## 🚤 Project Preview
+
+This project implements a GPS-guided autonomous boat using Arduino Nano with differential thrust control.
+
+### Key Highlights
+- Waypoint navigation using GPS (NEO-6M)
+- Heading control using HMC5883L compass
+- PID-based steering with differential thrust
+- Manual / Autopilot switching via FlySky CH6 AUX
+- Fully modular firmware structure
+
+---# GPS Guided Navigation Boat
 
 Arduino Nano based autonomous boat project using:
 - NEO-6M GPS
